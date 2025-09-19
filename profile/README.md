@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://displayfusion-multi-monitor.github.io/.github/">
-    <img src="https://img.shields.io/badge/??_Get_DisplayFusion-blue?style=for-the-badge&logo=github" alt="Download DisplayFusion"/>
+    <img src="https://img.shields.io/badge/Get_DisplayFusion-blue?style=for-the-badge&logo=github" alt="Download DisplayFusion"/>
   </a>
 </p>
 
